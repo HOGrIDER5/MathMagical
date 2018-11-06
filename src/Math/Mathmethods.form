@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="160" max="-2" attributes="0"/>
+                          <Component id="Title" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="txtfield5" min="-2" pref="48" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="txtfield6" min="-2" pref="52" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="Buttonnum3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+                                  <Component id="answernum3" min="-2" pref="40" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="question1" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="txtfieldnum3" min="-2" pref="47" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="txtfieldnum4" min="-2" pref="57" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="Buttonnum2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
+                                  <Component id="answernum2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="question3" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="txtfield7" min="-2" pref="34" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="txtfield8" min="-2" pref="46" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="Buttonum4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+                                  <Component id="answernum4" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="txtfieldnum1" min="-2" pref="44" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="txtfieldnum2" min="-2" pref="63" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Buttonnum1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="answernum1" min="-2" pref="41" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="question2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="question8" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="question6" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="question5" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="txtfield9" min="-2" pref="55" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                                  <Component id="Buttonnum5" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+                                  <Component id="answernum5" min="-2" pref="38" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="question7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Group type="102" attributes="0">
+                                                      <Component id="txtfield12" min="-2" pref="57" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                                      <Component id="Buttonnum8" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" attributes="0">
+                                                      <Component id="txtfield11" min="-2" pref="88" max="-2" attributes="0"/>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Component id="Buttonnum7" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" attributes="0">
+                                                      <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                                                      <Component id="ansernum7" min="-2" pref="92" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                                      <Component id="answernum8" min="-2" pref="55" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <Group type="102" attributes="0">
+                                              <Component id="txtfield10" min="-2" pref="60" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                                              <Component id="Buttonnum6" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="71" max="-2" attributes="0"/>
+                                              <Component id="answernum6" min="-2" pref="36" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="question4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="Title" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="question1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="txtfieldnum1" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="txtfieldnum2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="answernum1" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                              <Component id="Buttonnum1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                          <Component id="question2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="txtfieldnum3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfieldnum4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Buttonnum2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="answernum2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="question3" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Buttonnum3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="answernum3" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                              <Component id="txtfield6" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfield5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="question4" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="txtfield7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtfield8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Buttonum4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="answernum4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                          <Component id="question5" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="txtfield9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Buttonnum5" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="answernum5" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="question6" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="txtfield10" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Buttonnum6" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="answernum6" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="question7" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="txtfield11" min="-2" max="-2" attributes="0"/>
+                              <Component id="Buttonnum7" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="ansernum7" min="-2" pref="39" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="question8" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtfield12" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Buttonnum8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="answernum8" alignment="3" pref="34" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="22" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="Title">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Math Methods"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter two numbers and clickl to find out which number is larger. "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfieldnum1">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfieldnum1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfieldnum2">
+        </Component>
+        <Component class="javax.swing.JLabel" name="answernum1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonnum1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonnum1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter two number and click to find out which one is smaller."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfieldnum3">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfieldnum3ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfieldnum4">
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonnum2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonnum2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="answernum2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here&#xa;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter two number and press click to find out what is the power of the second number. "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield5">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield6">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfield6ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonnum3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonnum3ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="answernum3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter length of two sides of a right angel triangle to find out what is the hypotenuse."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield8">
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonum4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonum4ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="answernum4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter a decimal number and click to round down to the nearst intengere."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield9">
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonnum5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonnum5ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="answernum5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter a decimal number and click to roundup to the neast intengere."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield10">
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonnum6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonnum6ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="answernum6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter integer and click to find square loot."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield11">
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonnum7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonnum7ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="ansernum7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="question8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Enter an angels in degrees and click to find the angel in radinass "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtfield12">
+        </Component>
+        <Component class="javax.swing.JButton" name="Buttonnum8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Press"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Buttonnum8ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="answernum8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="here"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
